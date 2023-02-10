@@ -5,7 +5,7 @@ It is a tree data structure where each non-leaf node is a hash of it’s child n
 It maintains data integrity and uses hash functions for this purpose.
 
 <div align="center">
-    <img src="./merkle_tree.svg.png" alt="Merkle Tree Data Structure", style="width: 60%">
+    <img src="./asset/merkle_tree.svg.png" alt="Merkle Tree Data Structure", style="width: 60%">
 </div>
 
 ## Functions
